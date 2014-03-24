@@ -1,4 +1,4 @@
-yii2-extension-requests
+Yii2 Extension Requests
 =======================
 
 **Ideas "marketplace" for Yii 2 extensions**
